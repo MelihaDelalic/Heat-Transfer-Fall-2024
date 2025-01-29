@@ -10,3 +10,7 @@ This repository contains academic papers completed for the Heat and Mass Transfe
 - Paraview & XMGrace - Postprocessing of results
 - Solidworks - CPU modelling and thermal study
 - Python - Data processing and temperature visualization
+
+## License 
+These papers are for academic reference. If used, please provide proper attribution.
+
